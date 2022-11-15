@@ -1,6 +1,5 @@
 '''
-Programming Assignment 2, Q2
-By Dhanesh V,210101117'''
+8-Puzzle Solver'''
 import math 
 
 # Required Functions
